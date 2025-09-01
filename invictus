@@ -508,56 +508,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000061/1024.m3u8
 
 ===============================
 
-==========HBO MOVIE===========
-#EXTINF:-1 tvg-id="411.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_v1.png" group-title="HBO MOVIE",HBO
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=21ffca10810542af9734b82f4000c274:e3d2e4843ffadf510f6c91668a03e183
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
-https://atemeshield1-voe.sysln.id/live/eds/HBOHD/mpd/HBOHD.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYRrgJyVxiORjqkL9Wo_HBGNHI6CTWAMtMeQ&s" group-title="HBO MOVIE",HBO Hits
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=47a7ef37081a4ab5937c94272d9988b6:e637e6be1231e14a670120b23dae1a0b
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
-https://atemecdnbalancer-voe.sysln.id/live/eds/HBOHitsHD/mpd/HBOHitsHD.mpd
-
-#EXTINF:-1 tvg-id="414.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_Family.png" group-title="HBO MOVIE",HBO Family
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c374098609974ff5a1db0f2300098092:1cf7e0ca54f6f8a84f99a0607c0dfcee
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
-https://atemecdnbalancer-voe.sysln.id/live/eds/HBOFamilyHD/mpd/HBOFamilyHD.mpd
-
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_160_115" group-title="HBO MOVIE",HBO Signature
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5263a24be1084f29b190d98a52e30384:044798ce23772d14859c306a8a6b33f3
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
-https://atemecdnbalancer-voe.sysln.id/live/eds/HBOSignatureHD/mpd/HBOSignatureHD.mpd
-===============================
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/hbofam.png" group-title="HBO MOVIE ",HBO Family
-#EXTVLCOPT:http-referrer=https://www.firstmedia.com
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c374098609974ff5a1db0f2300098092:1cf7e0ca54f6f8a84f99a0607c0dfcee
-https://atemecdnbalancer-voe.sysln.id/live/eds/HBOFamilyHD/mpd/HBOFamilyHD.mpd
-
-===============================
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/hbosig.png" group-title="HBO MOVIE ",HBO Signature
-#EXTVLCOPT:http-referrer=https://www.firstmedia.com
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=5263a24be1084f29b190d98a52e30384:044798ce23772d14859c306a8a6b33f3
-https://atemecdnbalancer-voe.sysln.id/live/eds/HBOSignatureHD/mpd/HBOSignatureHD.mpd
-
-===============================
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch//refs/heads/main/cinemax.png" group-title="HBO MOVIE ",Cinemax
-#EXTVLCOPT:http-referrer=https://www.firstmedia.com
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b489136b34aa4166a9c9984f19155d30:2c6de796954779fd6f51584425ac834e
-https://atemecdnbalancer-voe.sysln.id/live/eds/CinemaxHD/mpd/CinemaxHD.mpd
 
 
 
@@ -1971,6 +1922,88 @@ https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/gigx
 
 
 =======================================================================
+
+#EXTINF:-1 tvg-id="beinsport" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png" group-title="🛰️ LIGA INGGRIS REPLAY  ",  🛰️ LIGA INGGRIS REPLAY INFO
+http://mag.tivi-ott.net/play/live.php?mac=00:1A:79:BD:95:55&stream=830116&extension=ts&play_token=OI5U8qRLFU
+
+#EXTINF:-1 tvg-id="beinsport" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png" group-title="🛰️ LIGA INGGRIS REPLAY  ",  🛰️ LIGA INGGRIS REPLAY  1
+http://mag.tivi-ott.net/play/live.php?mac=00:1A:79:BD:95:55&stream=830115&extension=ts&play_token=qjCKar5ccj
+
+#EXTINF:-1 tvg-id="beinsport" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png" group-title="🛰️ LIGA INGGRIS REPLAY  ",  🛰️ LIGA INGGRIS REPLAY  2
+http://mag.tivi-ott.net/play/live.php?mac=00:1A:79:BD:95:55&stream=830114&extension=ts&play_token=yDjAiVFUkR
+
+#EXTINF:-1 tvg-id="beinsport" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png" group-title="🛰️ LIGA INGGRIS REPLAY  ",  🛰️ LIGA INGGRIS REPLAY  3
+http://mag.tivi-ott.net/play/live.php?mac=00:1A:79:BD:95:55&stream=830113&extension=ts&play_token=KnIWkCyTQy
+
+#EXTINF:-1 tvg-id="beinsport" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png" group-title="🛰️ LIGA INGGRIS REPLAY  ",  🛰️ LIGA INGGRIS REPLAY  4
+http://mag.tivi-ott.net/play/live.php?mac=00:1A:79:BD:95:55&stream=830112&extension=ts&play_token=OYTvgSKBkk
+
+#EXTINF:-1 tvg-id="beinsport" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png" group-title="🛰️ LIGA INGGRIS REPLAY  ",  🛰️ LIGA INGGRIS REPLAY  5
+http://mag.tivi-ott.net/play/live.php?mac=00:1A:79:BD:95:55&stream=830111&extension=ts&play_token=ZhfQjoGFD6
+
+#EXTINF:-1 tvg-id="beinsport" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png" group-title="🛰️ LIGA INGGRIS REPLAY  ",  🛰️ LIGA INGGRIS REPLAY  6
+http://mag.tivi-ott.net/play/live.php?mac=00:1A:79:BD:95:55&stream=830110&extension=ts&play_token=Y7lWd6Dne9
+
+#EXTINF:-1 tvg-id="beinsport" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png" group-title="🛰️ LIGA INGGRIS REPLAY  ",  🛰️ LIGA INGGRIS REPLAY  7
+http://mag.tivi-ott.net/play/live.php?mac=00:1A:79:BD:95:55&stream=830109&extension=ts&play_token=vpt2GoRLaX
+
+#EXTINF:-1 tvg-id="beinsport" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png" group-title="🛰️ LIGA INGGRIS REPLAY  ",  🛰️ LIGA INGGRIS REPLAY  8
+http://mag.tivi-ott.net/play/live.php?mac=00:1A:79:BD:95:55&stream=830108&extension=ts&play_token=OLDAxSv1CX
+
+#EXTINF:-1 tvg-id="beinsport" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png" group-title="🛰️ LIGA INGGRIS REPLAY  ",  🛰️ LIGA INGGRIS REPLAY  9
+http://mag.tivi-ott.net/play/live.php?mac=00:1A:79:BD:95:55&stream=830107&extension=ts&play_token=DyJ4RkO3lW
+
+#EXTINF:-1 tvg-id="beinsport" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png" group-title="🛰️ LIGA INGGRIS REPLAY  ",  🛰️ LIGA INGGRIS REPLAY  10
+http://mag.tivi-ott.net/play/live.php?mac=00:1A:79:BD:95:55&stream=830106&extension=ts&play_token=DdvCRm1w1C
+
+
+ 
+<head>
+#EXTINF:-1 tvg-id="beinsport" tvg-logo="https://cdn.mos.cms.futurecdn.net/c6nfDmk7nEFkdMpAQYzEK4-1000-80.jpg" group-title="🛰️ UEFA CHAMPIONS REPLAY",  UEFA Champion Info
+http://mag.tivi-ott.net/play/live.php?mac=00:1A:79:BD:95:55&stream=830217&extension=ts&play_token=n1KBSwudMQ
+
+HL
+#EXTINF:-1 tvg-id="beinsport" tvg-logo="https://cdn.mos.cms.futurecdn.net/c6nfDmk7nEFkdMpAQYzEK4-1000-80.jpg" group-title="🛰️ UEFA CHAMPIONS REPLAY",  UEFA HIGHLIGHT
+http://mag.tivi-ott.net/play/live.php?mac=00:1A:79:BD:95:55&stream=830216&extension=ts&play_token=YlVvG8ly1n
+
+1
+#EXTINF:-1 tvg-id="beinsport" tvg-logo="https://cdn.mos.cms.futurecdn.net/c6nfDmk7nEFkdMpAQYzEK4-1000-80.jpg" group-title="🛰️ UEFA CHAMPIONS REPLAY",  UEFA REPLAY 1
+http://mag.tivi-ott.net/play/live.php?mac=00:1A:79:BD:95:55&stream=830215&extension=ts&play_token=W3HraHXS5I
+
+2
+#EXTINF:-1 tvg-id="beinsport" tvg-logo="https://cdn.mos.cms.futurecdn.net/c6nfDmk7nEFkdMpAQYzEK4-1000-80.jpg" group-title="🛰️ UEFA CHAMPIONS REPLAY",  UEFA REPLAY 2
+http://mag.tivi-ott.net/play/live.php?mac=00:1A:79:BD:95:55&stream=830214&extension=ts&play_token=ogSdqOYzDY
+
+3
+#EXTINF:-1 tvg-id="beinsport" tvg-logo="https://cdn.mos.cms.futurecdn.net/c6nfDmk7nEFkdMpAQYzEK4-1000-80.jpg" group-title="🛰️ UEFA CHAMPIONS REPLAY",  UEFA REPLAY 3
+http://mag.tivi-ott.net/play/live.php?mac=00:1A:79:BD:95:55&stream=830213&extension=ts&play_token=NGeII0SCF9
+
+4
+#EXTINF:-1 tvg-id="beinsport" tvg-logo="https://cdn.mos.cms.futurecdn.net/c6nfDmk7nEFkdMpAQYzEK4-1000-80.jpg" group-title="🛰️ UEFA CHAMPIONS REPLAY",  UEFA REPLAY 4
+http://mag.tivi-ott.net/play/live.php?mac=00:1A:79:BD:95:55&stream=830212&extension=ts&play_token=gZiBUM4qyj
+
+4
+#EXTINF:-1 tvg-id="beinsport" tvg-logo="https://cdn.mos.cms.futurecdn.net/c6nfDmk7nEFkdMpAQYzEK4-1000-80.jpg" group-title="🛰️ UEFA CHAMPIONS REPLAY",  UEFA REPLAY 5
+http://mag.tivi-ott.net/play/live.php?mac=00:1A:79:BD:95:55&stream=830211&extension=ts&play_token=I72Boisniw
+
+6
+#EXTINF:-1 tvg-id="beinsport" tvg-logo="https://cdn.mos.cms.futurecdn.net/c6nfDmk7nEFkdMpAQYzEK4-1000-80.jpg" group-title="🛰️ UEFA CHAMPIONS REPLAY",  UEFA REPLAY 6
+http://mag.tivi-ott.net/play/live.php?mac=00:1A:79:BD:95:55&stream=830210&extension=ts&play_token=w82LnRxZjh
+
+7
+#EXTINF:-1 tvg-id="beinsport" tvg-logo="https://cdn.mos.cms.futurecdn.net/c6nfDmk7nEFkdMpAQYzEK4-1000-80.jpg" group-title="🛰️ UEFA CHAMPIONS REPLAY",  UEFA REPLAY 7
+http://mag.tivi-ott.net/play/live.php?mac=00:1A:79:BD:95:55&stream=830209&extension=ts&play_token=BaoYp9sbHf
+
+8
+#EXTINF:-1 tvg-id="beinsport" tvg-logo="https://cdn.mos.cms.futurecdn.net/c6nfDmk7nEFkdMpAQYzEK4-1000-80.jpg" group-title="🛰️ UEFA CHAMPIONS REPLAY",  UEFA REPLAY 8
+http://mag.tivi-ott.net/play/live.php?mac=00:1A:79:BD:95:55&stream=830208&extension=ts&play_token=hALJDnCXCv
+9
+#EXTINF:-1 tvg-id="beinsport" tvg-logo="https://cdn.mos.cms.futurecdn.net/c6nfDmk7nEFkdMpAQYzEK4-1000-80.jpg" group-title="🛰️ UEFA CHAMPIONS REPLAY",  UEFA REPLAY 9
+http://mag.tivi-ott.net/play/live.php?mac=00:1A:79:BD:95:55&stream=830207&extension=ts&play_token=NaS4oga7oq
+10
+#EXTINF:-1 tvg-id="beinsport" tvg-logo="https://cdn.mos.cms.futurecdn.net/c6nfDmk7nEFkdMpAQYzEK4-1000-80.jpg" group-title="🛰️ UEFA CHAMPIONS REPLAY",  UEFA REPLAY 10
+http://mag.tivi-ott.net/play/live.php?mac=00:1A:79:BD:95:55&stream=830206&extension=ts&play_token=RzldCpIPiE
+
 
 
 
